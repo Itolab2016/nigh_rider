@@ -1,1 +1,3 @@
-# nigh_rider
+# night_rider
+
+リポジトリ名修正しました.
